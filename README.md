@@ -12,3 +12,5 @@ Summary:
   - 15143 attacks
   - Most from foreign countries (china, russia, brazil were most prevalent)
   - Dionaea received the most amount of attacks, then Amun, then Shockpot
+
+*See attached session.json file*
